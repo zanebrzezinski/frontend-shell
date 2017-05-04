@@ -1,0 +1,25 @@
+{
+  "name": "bream",
+  "version": "1.0.0",
+  "description": "bream hall",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joystickinteractive/breamhall.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joystickinteractive/breamhall/issues"
+  },
+  "homepage": "https://github.com/joystickinteractive/breamhall",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^3.1.0"
+  }
+}
